@@ -24,3 +24,8 @@ source $HOME/.cargo/env
 rustc --version
 cargo --version
 ```
+
+2️⃣ Clone the Repository
+sh
+Copy
+Edit

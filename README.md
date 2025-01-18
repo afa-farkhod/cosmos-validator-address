@@ -50,6 +50,9 @@ base64 = "0.21"
 Replace the base64 public key in `src/main.rs` with your own, then run:
 ```
 cargo run
+
+# expected output:
+Cosmos Validator Address: cosmosvalcons1lth4cv5tkn2fc5yuy4xx6rj7wvzrpxkkqg3my5
 ```
 
 - Example Ed25519 public key input:

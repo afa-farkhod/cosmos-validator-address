@@ -51,3 +51,13 @@ Replace the base64 public key in `src/main.rs` with your own, then run:
 ```
 cargo run
 ```
+
+- Example Ed25519 public key input:
+```
+{
+    "consensus_pubkey": {
+      "@type": "/cosmos.crypto.ed25519.PubKey",
+      "key": "bDO9bUrbyg0f1pTpmjjZU5cgsweCWdwL6HUVnsKJi7k="
+    }
+}
+```

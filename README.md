@@ -64,3 +64,14 @@ Cosmos Validator Address: cosmosvalcons1lth4cv5tkn2fc5yuy4xx6rj7wvzrpxkkqg3my5
     }
 }
 ```
+
+📜 Explanation
+1. Decodes the base64 string to raw bytes.
+2. Parses it as a Tendermint public key.
+3. Hashes the public key with SHA-256 and truncates it to 20 bytes.
+4. Encodes it using Bech32 with the prefix cosmosvalcons.
+
+🏗 Contributing
+Pull requests are welcome! Please open an issue if you find bugs or need improvements.
+
+

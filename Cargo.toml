@@ -1,0 +1,10 @@
+[package]
+name = "cosmos-validator-address"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cosmrs = "0.15"
+bech32 = "0.9"
+sha2 = "0.10"
+base64 = "0.21"

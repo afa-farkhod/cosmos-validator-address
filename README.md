@@ -26,6 +26,28 @@ cargo --version
 ```
 
 2️⃣ Clone the Repository
-sh
-Copy
-Edit
+```
+git clone https://github.com/afa-farkhod/cosmos-validator-address.git
+cd cosmos-validator-address
+```
+
+3️⃣ Add Dependencies
+Make sure your `Cargo.toml` contains the following dependencies:
+```
+[package]
+name = "cosmos-validator-address"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cosmrs = "0.15"
+bech32 = "0.9"
+sha2 = "0.10"
+base64 = "0.21"
+```
+
+4️⃣ Usage
+Replace the base64 public key in `src/main.rs` with your own, then run:
+```
+cargo run
+```

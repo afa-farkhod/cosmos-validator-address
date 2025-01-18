@@ -75,4 +75,6 @@ Cosmos Validator Address: cosmosvalcons1lth4cv5tkn2fc5yuy4xx6rj7wvzrpxkkqg3my5
 
 - Pull requests are welcome! Please open an issue if you find bugs or need improvements.
 
+### Discussion
 
+- [Stackoverflow](https://stackoverflow.com/questions/74802985/cosmos-convert-pubkey-to-consensus-address): Cosmos: Convert pubkey to consensus address

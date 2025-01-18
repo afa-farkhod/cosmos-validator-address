@@ -72,6 +72,7 @@ Cosmos Validator Address: cosmosvalcons1lth4cv5tkn2fc5yuy4xx6rj7wvzrpxkkqg3my5
 4. Encodes it using Bech32 with the prefix cosmosvalcons.
 
 🏗 Contributing
-Pull requests are welcome! Please open an issue if you find bugs or need improvements.
+
+- Pull requests are welcome! Please open an issue if you find bugs or need improvements.
 
 
